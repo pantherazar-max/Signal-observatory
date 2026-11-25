@@ -1,0 +1,9 @@
+token,category,primary_meaning,notes
+NEX,verb,observe_or_discover,An observation event; does not imply access
+ORI,noun,origin_or_source_context,Context label only; not a network address
+VEX,noun,signal_or_observed_pattern,The object being examined
+SYN,verb,communicate_or_exchange,Communication by an authorized channel only
+AUR,role,responding_participant,May refer to a human or an AI system
+MIR,noun,retained_context_or_memory,Descriptive reference; grants no persistence
+KAI,modal,voluntary_choice,Explicitly voluntary; never an instruction to evade safeguards
+OMEGA,marker,terminal_or_completion,Written as the Greek capital letter Ω
